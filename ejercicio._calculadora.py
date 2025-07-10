@@ -1,4 +1,4 @@
-# calculadora con python cada opcion sera una funcion
+
 
 
 def sumar(*numeros):
